@@ -1,4 +1,4 @@
-# DocLand portfolio
+# Mergaite
 
 
 This project is for educational porpuses only. 
