@@ -1,2 +1,0 @@
-npm i -D live-server                //-D if for adding only for developers side
-https://realfavicongenerator.net/
